@@ -28,7 +28,7 @@ RQT GRAPH:
 
 Bonus Question:
 ------------
-Action server defined in BonusQ_ActionServer.py
-Action Client defined in BonusQ_ActionClient.py
+Action server defined in BonusQ_ActionServer.py \n
+Action Client defined in BonusQ_ActionClient.py \n
 Action defined as RobotArmKinematics.action present in the action directory
 
