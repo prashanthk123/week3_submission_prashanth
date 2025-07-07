@@ -1,0 +1,10 @@
+#Goal
+int32 goal_angle
+
+---
+#Result
+bool success
+
+---
+#Feedback
+int32 current_angle
